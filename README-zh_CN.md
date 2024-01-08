@@ -18,7 +18,7 @@
 | 步骤 | 命令 |
 |-------|--------|
 | 1. 安装 [Node.js](https://nodejs.org/), 使用 [最新的LTS版本](https://nodejs.org/en/about/releases/) | - |
-| 2. [Enable Corepack](#corepack) | `corepack enable` |
+| 2. [启用 Corepack](#corepack) | `corepack enable` |
 | 3. 安装 [`@antfu/ni`](https://github.com/antfu/ni) | `npm i -g @antfu/ni` |
 | 4. 在项目根目录下安装依赖项 | `ni` |
 
