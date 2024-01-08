@@ -1,7 +1,7 @@
 ## Contribution Guide
 
 <div>
-  <a href="https://github.com/antfu/awesome-vitesse/issues/new?assignees=&labels=good+first+issue&template=good-first-issue.md&title=">🧾简体中文</a>
+  <a href="./README-zh_CN.md">🧾简体中文</a>
 </div>
 <br>
 
